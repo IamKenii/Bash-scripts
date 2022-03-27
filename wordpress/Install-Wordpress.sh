@@ -57,12 +57,8 @@ echo welcome to the install of wordpress.
             echo "apache 2 has been uninstalled."
             cd /var/www/html
             sudo rm -rf *
-            ls
             echo
             echo
-            echo
-            sudo service apache2 status
-
 		;;
 		3)
             exit
