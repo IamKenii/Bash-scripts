@@ -1,4 +1,4 @@
-Database for wordpress.
+**Database for wordpress.**
 
 sudo mysql -uroot -p
 
