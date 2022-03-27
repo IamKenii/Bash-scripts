@@ -1,3 +1,5 @@
+Database for wordpress.
+
 sudo mysql -uroot -p
 
 create database wordpress;
