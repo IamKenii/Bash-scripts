@@ -55,7 +55,7 @@ echo welcome to the install of wordpress.
             echo "uninstall apache2 and wordpress."
             sudo apt purge apache2
             echo "apache 2 has been uninstalled."
-            cd /var/www/html
+            cd /var/www/html/
             sudo rm -rf *
             echo
             echo
