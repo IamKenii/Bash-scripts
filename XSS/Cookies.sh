@@ -2,7 +2,7 @@
 	echo "Select an option:"
 	echo "   1) Gebruik de standaard poort."
 	echo "   2) Gebruik je eigen poort."
-    echo "   3) Gebruik je eigen poort."
+    echo "   3) Extra."
 	echo "   4) Exit "
 
 	read -p "Option: " option
